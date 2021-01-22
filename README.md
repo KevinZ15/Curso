@@ -1,3 +1,2 @@
 # Curso
 Práctica Curso
-a
